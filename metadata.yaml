@@ -1,11 +1,16 @@
 _repo: The-Woman-and-the-Car_58956
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58956-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Levitt, Dorothy
     gutenberg_agent_id: '50231'
     url: http://www.gutenberg.org/2009/agents/50231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58956#The-Woman-and-the-Car
 gutenberg_issued: '2019-02-24'
 gutenberg_type: Text
 identifiers:
